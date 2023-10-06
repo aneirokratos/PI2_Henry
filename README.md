@@ -11,6 +11,21 @@
 
 <h2 align="center">Análisis de accidentes viales en Buenos Aires Argentina</h2>
  
+Los datos se organizaron en un conjunto de datos de pandas. El conjunto de datos incluye las siguientes columnas:
+
++ Número de víctimas: Número de personas involucradas en el accidente.
++ Tipo de víctima: Tipo de usuario involucrado en el accidente (automóvil, motocicleta, peatón, etc.).
++ Fecha: Fecha en la que ocurrió el accidente.
++ Hora: Hora en la que ocurrió el accidente.
++ Tipo de vía: Tipo de vía en la que ocurrió el accidente.
+
+**Análisis**
+
+El análisis de datos se realizó utilizando Python. Se utilizaron las siguientes técnicas de análisis de datos:
+
+Exploratory data analysis (EDA): Se utilizó EDA para explorar los datos y identificar tendencias y patrones.
+Visualización de datos: Se utilizaron gráficos para visualizar los datos de una manera más efectiva.
+Análisis estadístico: Se utilizaron pruebas estadísticas para evaluar la importancia de los hallazgos.
 
 ## Introducción
 
@@ -38,7 +53,7 @@ Los accidentes viales en Buenos Aires, Argentina, se caracterizan por lo siguien
 * **Los días y horarios con mayor riesgo de accidentes son los fines de semana y las noches.** En 2022, el 40% de los accidentes ocurrieron los fines de semana y el 30% ocurrieron durante la noche.
 * **Los motociclistas y los peatones son los grupos más vulnerables a los accidentes.** En 2022, el 30% de los accidentes involucró a motociclistas y el 20% involucró a peatones.
 
-Cantidad de vóctimas fatales por año
+Cantidad de víctimas fatales por año
 | Nº de Victimas | Año | Cantidad de victimas |
 |---|---|---|
 |1|2016|142|
@@ -66,6 +81,8 @@ Los accidentes viales en Buenos Aires son más comunes los fines de semana y las
 * **Distribución de los accidentes por tipo de usuario**
 
 Los motociclistas y los peatones son los grupos más vulnerables a los accidentes viales en Buenos Aires. Esto se debe a que estos usuarios son más propensos a sufrir lesiones graves o mortales en caso de accidente.
+
+
 
 **Conclusiones**
 
