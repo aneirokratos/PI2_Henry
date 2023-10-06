@@ -82,15 +82,49 @@ Los accidentes viales en Buenos Aires son más comunes los fines de semana y las
 
 Los motociclistas y los peatones son los grupos más vulnerables a los accidentes viales en Buenos Aires. Esto se debe a que estos usuarios son más propensos a sufrir lesiones graves o mortales en caso de accidente.
 
-![Accidentes fatales](https://github.com/aneirokratos/PI2_Henry/blob/main/victimas.png)
+<p align="center">
+  <img src="https://github.com/aneirokratos/PI2_Henry/blob/main/victimas.png" alt=" ">
+</p>
+<p align="center">
+  <em>Gráfico de accidentes fatales por víctima</em>
+</p>
 
-![Lesionados](https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados.png)
+<p align="center">
+  <img src="https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados.png" alt=" ">
+</p>
+<p align="center">
+  <em>Gráfico de lesionados</em>
+</p>
 
-![Acusados](https://github.com/aneirokratos/PI2_Henry/blob/main/Acusados.png)
 
-![Accidentes_x_año](https://github.com/aneirokratos/PI2_Henry/blob/main/Accidentes%20anio.png)
+<p align="center">
+  <img src="https://github.com/aneirokratos/PI2_Henry/blob/main/Acusados.png" alt=" ">
+</p>
+<p align="center">
+  <em>Gráfico de acusados en homicidio por accidente vial</em>
+</p>
 
-![Lesionados_x_año](https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados%20anio.png)
+### KPIs en Accidentes Viales
+
+Los Indicadores Clave de Desempeño (KPIs) desempeñan un papel esencial en el análisis de accidentes viales al proporcionar métricas cuantificables y objetivas que permiten evaluar, monitorear y mejorar la seguridad vial. Estos indicadores no solo brindan una visión holística de la frecuencia de los incidentes, sino que también permiten profundizar en sus causas, características y consecuencias.
+
+En el contexto de los accidentes viales, los KPIs son herramientas cruciales para entender la dinámica y la gravedad de estos eventos. Desde la distribución horaria hasta la evaluación de la magnitud del impacto, cada KPI seleccionado arroja luz sobre aspectos específicos del panorama vial. Analizar estos indicadores no solo nos ayuda a identificar áreas de alto riesgo y a desarrollar estrategias de prevención efectivas, sino que también contribuye a la formación de políticas y decisiones informadas para mejorar la seguridad en nuestras carreteras.
+
+Dentro del Dashboard exploraremos detalladamente varios KPIs clave relacionados con accidentes viales, destacando su importancia y proporcionando insights valiosos para la toma de decisiones. Al comprender estos indicadores, no solo estaremos cuantificando la magnitud de los desafíos en seguridad vial, sino también allanando el camino hacia soluciones proactivas y medidas eficaces para reducir los riesgos y preservar la integridad de nuestras comunidades viales.
+
+<p align="center">
+  <img src="https://github.com/aneirokratos/PI2_Henry/blob/main/Accidentes%20anio.png" alt=" ">
+</p>
+<p align="center">
+  <em>Cantidad de accidentes por año</em>
+</p>
+
+<p align="center">
+  <img src="https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados%20anio.png" alt=" ">
+</p>
+<p align="center">
+  <em>Cantidad de lesionados por año</em>
+</p>
 
 **Conclusiones**
 
