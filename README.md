@@ -23,7 +23,7 @@ Los datos se organizaron en un conjunto de datos de pandas. El conjunto de datos
 
 El análisis de datos se realizó utilizando Python. Se utilizaron las siguientes técnicas de análisis de datos:
 
-Exploratory data analysis (EDA): Se utilizó EDA para explorar los datos y identificar tendencias y patrones.
+Exploratory data analysis [EDA](https://github.com/aneirokratos/PI2_Henry/blob/main/EDA.ipynb) : Se utilizó EDA para explorar los datos y identificar tendencias y patrones.
 Visualización de datos: Se utilizaron gráficos para visualizar los datos de una manera más efectiva.
 Análisis estadístico: Se utilizaron pruebas estadísticas para evaluar la importancia de los hallazgos.
 
