@@ -82,7 +82,15 @@ Los accidentes viales en Buenos Aires son más comunes los fines de semana y las
 
 Los motociclistas y los peatones son los grupos más vulnerables a los accidentes viales en Buenos Aires. Esto se debe a que estos usuarios son más propensos a sufrir lesiones graves o mortales en caso de accidente.
 
+![Accidentes fatales](https://github.com/aneirokratos/PI2_Henry/blob/main/victimas.png)
 
+![Lesionados](https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados.png)
+
+![Acusados](https://github.com/aneirokratos/PI2_Henry/blob/main/Acusados.png)
+
+![Accidentes_x_año](https://github.com/aneirokratos/PI2_Henry/blob/main/Accidentes%20anio.png)
+
+![Lesionados_x_año](https://github.com/aneirokratos/PI2_Henry/blob/main/Lesionados%20anio.png)
 
 **Conclusiones**
 
@@ -98,5 +106,8 @@ Esta información adicional podría ayudar a crear un readme más completo e inf
 
 ## Referencias
 
-Informes estadísticos de seguridad vial. https://buenosaires.gob.ar/jefaturadegabinete/movilidad/informes-estadisticos-de-seguridad-vial
-Observatorio de Seguridad Vial de la Ciudad de Buenos Aires. "Informe anual 2022". https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estadisticas-observatorio
+Informes estadísticos de seguridad vial. 
+https://buenosaires.gob.ar/jefaturadegabinete/movilidad/informes-estadisticos-de-seguridad-vial
+
+Observatorio de Seguridad Vial de la Ciudad de Buenos Aires. "Informe anual 2022". 
+https://www.argentina.gob.ar/seguridadvial/observatoriovialnacional/estadisticas-observatorio
